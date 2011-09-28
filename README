@@ -1,0 +1,1 @@
+This Groovy script will delete the Jekins/Hudson workspaces on slave nodes if the slave is offline because of disk space usage.
